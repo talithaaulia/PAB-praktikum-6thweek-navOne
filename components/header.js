@@ -47,13 +47,13 @@ const Header = ({ title, withBack = false }) => {
               source={require("../assets/youtube.png")}
               w="5"
               h="5"
-              alt="Facebook Icon"
+              alt="Youtube Icon"
             />
             <Image
               source={require("../assets/twitter.png")}
               w="5"
               h="5"
-              alt="Facebook Icon"
+              alt="Twitter Icon"
             />
             <Image
               source={require("../assets/search.png")}
